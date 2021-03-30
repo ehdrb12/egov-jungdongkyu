@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>egov-kimilguk</groupId>
-	<artifactId>egov-jungdongkyu</artifactId>
+	<artifactId>egov-kimilguk</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
 	<name>egov-kimilguk</name>
@@ -266,7 +266,6 @@
 			<artifactId>egovframework.rte.fdl.security</artifactId>
 			<version>3.9.0</version>
 		</dependency>
-		
 		<!-- postgreSQL 모듈 추가 -->
 		<dependency>
 		     <groupId>org.postgresql</groupId>
